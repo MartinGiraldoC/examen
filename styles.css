@@ -1,0 +1,15 @@
+*{
+    background-repeat: url(https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/thestocks.jpg) no-repeat;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.botonregresar{
+    width: 60px;
+    height: 50px;
+}
+
+
+
